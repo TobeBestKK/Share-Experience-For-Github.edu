@@ -60,3 +60,87 @@ JetBrains 工具：前往 JetBrains 官网的教育页面，用你的GitHub账�
 (3)账户为新注册账号或信息不完整，建议注册满3天以上并完善个人资料（如Bio、学校信息）后再申请。
 
 (4)未开启双重认证（2FA）。在账户设置的“Password and authentication”中启用。
+
+🎁 核心权益概览
+
+权益包主要包含以下几类：
+
+1. GitHub 核心服务升级
+   
+GitHub Pro
+
+权益：无限私有仓库、更高级的协作工具等。
+
+说明：审核通过后，账户会自动升级。
+
+GitHub Copilot
+
+权益：免费的 AI 结对编程工具。
+
+说明：需在权益页面手动激活订阅。
+
+GitHub Pages
+
+权益：免费的静态网站托管服务。
+
+说明：可用于托管个人博客、项目文档等。
+
+2. 开发工具与云服务
+   
+JetBrains 全家桶
+
+权益：免费订阅所有 JetBrains IDE（如 IntelliJ IDEA, PyCharm, WebStorm 等）。
+
+说明：需用 GitHub 账户登录 JetBrains 官网申领。
+
+3. 主流云服务信用额度
+
+Microsoft Azure：通常提供 $100 信用额度。
+
+DigitalOcean：通常提供 $200 信用额度。
+
+AWS Educate：提供一定价值的云服务学分。
+
+说明：适用于体验和部署个人项目。
+
+Namecheap：免费一年的域名注册（.me 等后缀）及 SSL 证书。
+
+说明：可用于打造个人品牌。
+
+4. 学习与教育资源
+
+编程课程平台订阅
+
+Educative：免费访问 6 个月的全套交互式课程。
+
+DataCamp：免费访问 3 个月的数据科学课程。
+
+Frontend Masters：免费访问 6 个月的前端深度课程。
+
+GitHub 认证
+
+权益：免费参加 GitHub Foundations 认证考试的机会。
+
+说明：是官方认可的初级技能凭证。
+
+5. 其他实用工具
+
+Canva Pro
+
+权益：为期一年的 Canva 专业版订阅。
+
+说明：用于设计演示文稿、海报、社交媒体图文等。
+
+1Password
+
+权益：为期一年的 1Password 个人高级版。
+
+说明：管理所有账户的密码和安全信息。
+
+GitKraken Pro
+
+权益：功能增强的 Git 图形化客户端。
+
+说明：提供更直观的代码仓库管理和协作视图。
+
+请注意：以上列表为部分代表性权益，完整的合作伙伴列表可能随时调整。最准确的信息请务必查阅 GitHub Student Developer Pack 官方页面。
