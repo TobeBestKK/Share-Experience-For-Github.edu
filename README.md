@@ -70,18 +70,18 @@ https://github.com/settings/education/benefits?locale=en-US
 
 如果申请未通过，通常会收到邮件说明原因。常见问题包括：
 
-- 证明材料不清晰、信息不完整，或无法证明当前���读状态。
+- 证明材料不清晰、信息不完整，或无法证明当前在读状态。
 - 账户信息与证明文件不一致，尤其是姓名、学校名称等字段。
 - 账户过新或资料不完整，建议完善资料后再重新申请。
 - 未开启双重认证（2FA）。
 
 ## GitHub Student Developer Pack 的常见权益
 
-以下为 Student Developer Pack 中���见的代表性权益，具体内容可能随官方合作伙伴调整而变化：
+以下为 Student Developer Pack 中常见的代表性权益，具体内容可能随官方合作伙伴调整而变化：
 
 ### GitHub 核心服务
 
-- **GitHub Pro**：提供��高级的协作能力与开发者功能。
+- **GitHub Pro**：提供高级的协作能力与开发者功能。
 - **GitHub Copilot**：AI 编程辅助工具，通常可在权益页面中激活。
 - **GitHub Pages**：用于托管静态网站、个人主页和项目文档。
 
@@ -108,7 +108,7 @@ https://github.com/settings/education/benefits?locale=en-US
 
 ## 说明
 
-本文档仅用于分享申请经验与整理公开信息，不保证审核结果，也不构成官方建议。最准确、最���的信息请以 GitHub Student Developer Pack 官方页面为准。
+本文档仅用于分享申请经验与整理公开信息，不保证审核结果，也不构成官方建议。最准确的信息请以 GitHub Student Developer Pack 官方页面为准。
 
 ## 参考链接
 
